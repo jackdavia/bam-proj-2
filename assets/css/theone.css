@@ -1,0 +1,92 @@
+section{
+	margin-top:10%;
+	padding: 5%;
+}
+
+section.theater{
+	border-top: 20px solid aqua;
+}
+
+section.dance{
+	border-top: 20px solid coral;
+}
+
+section.music{
+	border-top: 20px solid gold;
+}
+
+section.opera{
+	border-top: 20px solid orchid;
+}
+
+section.talks{
+	border-top: 20px solid tomato;
+}
+
+section.classes{
+	border-top: 20px solid sienna;
+}
+
+h1{
+
+}
+
+h2{
+
+}
+
+h2.dates{
+
+}
+
+h2.time{
+
+}
+
+h3{
+
+}
+
+h3.location{
+
+}
+
+h3.run-time{
+
+}
+
+h3.price{
+
+}
+
+h4{
+
+}
+
+h4.main-credit{
+
+}
+
+h5{
+
+}
+
+h5.credit{
+
+}
+
+h6{
+
+}
+
+h6.part-of{
+
+}
+
+img{
+
+}
+
+section img{
+
+}
